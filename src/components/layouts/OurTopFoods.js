@@ -28,7 +28,7 @@ export default function OurTopFoods() {
                 <p className="text-slate-500 line-clamp-3">
                   Pizza is a popular dish originating from Italy, consisting of
                   a flattened round dough topped with tomato sauce, cheese, and
-                  various ingredients such as meats, vegetables, and herbs. It's
+                  various ingredients such as meats, vegetables, and herbs. It&apos;s
                   baked until crispy, offering a satisfying and versatile meal
                   enjoyed worldwide.
                 </p>
@@ -80,7 +80,7 @@ export default function OurTopFoods() {
                   Ice cream is a frozen dessert loved worldwide, typically made
                   from dairy products like milk and cream, sweetened with sugar,
                   and flavored with various ingredients such as fruit,
-                  chocolate, or nuts. It's churned to incorporate air, creating
+                  chocolate, or nuts. It&apos;s churned to incorporate air, creating
                   a smooth and creamy texture. Enjoyed in cones, cups, or as
                   toppings, ice cream offers a refreshing and indulgent treat
                   for people of all ages.
@@ -106,7 +106,7 @@ export default function OurTopFoods() {
                 <p className="text-slate-500 line-clamp-3">
                   A vegetarian burger is a plant-based alternative to
                   traditional meat burgers, featuring a patty made from
-                  ingredients like beans, lentils, tofu, or vegetables. It's
+                  ingredients like beans, lentils, tofu, or vegetables. It&apos;s
                   served on a bun with toppings such as lettuce, tomato, onion,
                   and sauces.
                 </p>
