@@ -14,8 +14,11 @@ export default function MenuPage() {
     fetch("/api/menu-items").then((res) => {
       res.json().then((menuItems) => setMenuItems(menuItems));
     });
+    if (typeof window !== 'undefined') {
+      window.scrollTo(0, 0);
+    }
   }, []);
-  window.scroll(0, 0);
+ 
   return (
     <section className="mt-8">
       {categories?.length > 0 ? (
